@@ -55,7 +55,6 @@ $(document).ready(function() {
     $('#test-clear').click(function() {
        $('#results-table tbody').empty();
        $('#test-table tbody').empty();
-    })
-
+    });
   });
 });
